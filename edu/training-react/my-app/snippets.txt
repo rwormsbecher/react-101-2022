@@ -711,6 +711,3 @@ export const AddBootcampComponent = () => {
 32: 
 <Label for="details">Details</Label>
 <textarea {...register("details")} tabIndex={3}></textarea>
-
-
-33:
